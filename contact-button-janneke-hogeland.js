@@ -41,7 +41,7 @@
     '.cw-icon{width:32px;height:32px;border-radius:8px;background:' + c + ';display:flex;align-items:center;justify-content:center;flex-shrink:0;}',
     '.cw-icon svg{width:16px;height:16px;fill:white;}',
     '.cw-link-text{display:flex;flex-direction:column;}',
-    '.cw-link-label{font-size:11px;color:#999;line-height:1;margin-bottom:2px;}',
+    '.cw-link-label{font-size:11px;color:#555;line-height:1;margin-bottom:2px;}',
     '.cw-link-value{font-size:13px;color:inherit;line-height:1;}',
   ].join('');
   document.head.appendChild(style);
