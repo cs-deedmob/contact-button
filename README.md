@@ -1,4 +1,4 @@
-Copy contact button code
+Copy contact button code //
 Name it, ending with .js
 Update info
 Add the following snippet to the HTML part in settings:
