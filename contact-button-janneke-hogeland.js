@@ -13,6 +13,7 @@
     position: 'left',                       // ✏️ 'left' or 'right'
     labelPhone: 'Bel mij',                  // ✏️ Phone label
     labelEmail: 'Mail mij',                 // ✏️ Email label
+    cardWidth: '320px',                    // ✏️ Card width — increase if email is too long
   };
   /* ============================================================ */
 
@@ -26,7 +27,7 @@
     '#cw-toggle{width:56px;height:56px;border-radius:50%;background:' + c + ';border:none;cursor:pointer;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 12px rgba(0,0,0,0.18);transition:transform 0.2s ease;' + btnMargin + '}',
     '#cw-toggle:hover{transform:scale(1.06);}',
     '#cw-toggle svg{width:24px;height:24px;fill:white;}',
-    '#cw-card{background:#fff;border-radius:16px;box-shadow:0 8px 24px rgba(0,0,0,0.12);padding:20px;width:260px;margin-bottom:12px;display:none;animation:cwPop 0.2s ease;}',
+    '#cw-card{background:#fff;border-radius:16px;box-shadow:0 8px 24px rgba(0,0,0,0.12);padding:20px;width:' + CONFIG.cardWidth + ';margin-bottom:12px;display:none;animation:cwPop 0.2s ease;}',
     '#cw-card.open{display:block;}',
     '@keyframes cwPop{from{opacity:0;transform:translateY(8px) scale(0.97);}to{opacity:1;transform:translateY(0) scale(1);}}',
     '.cw-profile{display:flex;align-items:center;gap:12px;margin-bottom:16px;}',
