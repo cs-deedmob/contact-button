@@ -3,16 +3,16 @@
      ✏️  CUSTOMISE HERE — change these values for each site
      ============================================================ */
   var CONFIG = {
-    name:    'Sara de Vries',               // ✏️ Name
-    role:    'Customer Success · Deedmob',  // ✏️ Role (or leave empty: '')
-    photo:   'https://i.pravatar.cc/96?img=47', // ✏️ Photo URL
-    phone:      '06 12 34 56 78',           // ✏️ Display phone number
-    phoneHref:  'tel:+31612345678',         // ✏️ Phone for tel: link (no spaces)
-    email:      'sara@deedmob.com',         // ✏️ Email address
-    color:   '#2D6A4F',                     // ✏️ Brand colour
+    name:    'Janneke de Vries',               // ✏️ Name
+   // role:    'Customer Success · Deedmob',  // ✏️ Role (or leave empty: '')
+   // photo:   'https://i.pravatar.cc/96?img=47', // ✏️ Photo URL
+    phone:      '06 21 81 57 72',           // ✏️ Display phone number
+    phoneHref:  'tel:+31621815772',         // ✏️ Phone for tel: link (no spaces)
+    email:      'janneke@vrijwilligerinhethogeland.nl',         // ✏️ Email address
+    color:   '#ff6633',                     // ✏️ Brand colour
     position: 'left',                       // ✏️ 'left' or 'right'
-    labelPhone: 'Bel ons',                  // ✏️ Phone label
-    labelEmail: 'Mail ons',                 // ✏️ Email label
+    labelPhone: 'Bel mij',                  // ✏️ Phone label
+    labelEmail: 'Mail mij',                 // ✏️ Email label
   };
   /* ============================================================ */
 
