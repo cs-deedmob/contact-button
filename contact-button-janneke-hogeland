@@ -135,7 +135,6 @@
 </head>
 <body>
 
-<!-- ✏️  PASTE THIS SNIPPET INTO YOUR SITE  ✏️ -->
 <div id="contact-widget">
 
   <!-- Card (hidden by default) -->
@@ -218,7 +217,6 @@
     toggle.setAttribute('aria-label', isOpen ? 'Close contact card' : 'Open contact card');
   });
 </script>
-<!-- ✏️  END OF SNIPPET  ✏️ -->
 
 </body>
 </html>
