@@ -5,7 +5,7 @@
   var CONFIG = {
     name:    'Janneke de Vries',               // ✏️ Name
    // role:    'Customer Success · Deedmob',  // ✏️ Role (or leave empty: '')
-   // photo:   'https://i.pravatar.cc/96?img=47', // ✏️ Photo URL
+    photo:   'https://ik.imagekit.io/deedmob/o-prod%2F28268%2F3120249_1779092594222%401080x2408.jpeg', // ✏️ Photo URL
     phone:      '06 21 81 57 72',           // ✏️ Display phone number
     phoneHref:  'tel:+31621815772',         // ✏️ Phone for tel: link (no spaces)
     email:      'janneke@vrijwilligerinhethogeland.nl',         // ✏️ Email address
